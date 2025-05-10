@@ -1,7 +1,7 @@
 {
   "name": "password-validation",
   "version": "0.1.0",
-  "homepage": "https://supp-2020.github.io/password-validation/",
+  "homepage": "https://supp-2020.github.io/password-validation",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
