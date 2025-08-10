@@ -153,7 +153,7 @@ export const FormValidation = () => {
   };
   return (
     <main className="form-container">
-      <h1>Form Validation</h1>
+      <h1>Input Field Validation</h1>
       <FormContainer>
         <form action="#" className="formField">
           <div className="emailField">
@@ -184,7 +184,7 @@ export const FormValidation = () => {
             )}
           </div>
           <div className="passwordField">
-            <FormLabel htmlFor="newPass">Password</FormLabel>
+            <FormLabel htmlFor="newPass">Dummy Password</FormLabel>
             <InputSpanWrapper className="inputSpan">
               <FormInput
                 type={newPass ? "password" : "text"}
