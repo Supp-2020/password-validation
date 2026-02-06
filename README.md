@@ -1,5 +1,4 @@
-# FormGuard ✅  
-*A Lightweight Form Validator with Custom Email & Password Validation*
+# FormGuard ✅
 
 FormGuard is a **reusable, UI-friendly form validation module** designed to handle **email validation, password visibility toggle, and password strength checks** with a clean and intuitive user experience.
 
@@ -32,7 +31,6 @@ FormGuard validates common form fields with special focus on:
 - **Live password strength checker UI**
 - **Rule-based validation driven by configurable parameters**
 
-The validator is framework-agnostic in design and can be easily integrated into modern frontend applications.
 ---
 
 ### ⚙️ Rule-Based Validation (Config Driven)
